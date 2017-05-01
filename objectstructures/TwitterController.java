@@ -4,6 +4,8 @@ package objectstructures;
 import java.util.Collection;
 import java.util.HashSet;
 
+import interfaces.twitter.Tweet;
+import interfaces.twitter.TwitterAccount;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
